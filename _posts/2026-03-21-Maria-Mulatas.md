@@ -6,7 +6,7 @@ date: 2026-03-21
 ## Hello world
 es la primera vez que escribo algo en este blog y como no empezar con las mariamulatas, en el caribe, específicamente en cartagena, la mariamulata no es solo un pájaro, es una vecina más, uno de esos que sabe donde esta la mejor comida (en la terraza donde está la comida de mis perros) o cual es el mejor poste de luz para juzgar a las personas que pasan a mediodía. con su plumaje negro que brilla con luces azules, bajo el sol de mediodia y ese ojo de vidrio amarillo que aveces se siente como una amenaza, la mariamulata es un ave que merece una minima pizca de tu respeto
 
-![Maria Mulatas Aviario](/assets/images//mariamulatas.png "Maria Mulatas")
+![Maria Mulatas Aviario]({{ "/assets/images/mariamulatas.webp" | relative_url }})
 
 en la foto que adjunte, podemos ver a un macho gracias a que el pelaje es negro con destellos morados y en algunos casos azules (en la foto estos destellos no se pueden ver muy bien) pero sabemos que es macho por que, el plumaje de las hembras es marron.  bueno ahora si, lo interesante 
 
