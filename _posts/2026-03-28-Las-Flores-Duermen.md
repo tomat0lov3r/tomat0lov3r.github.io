@@ -3,6 +3,7 @@ layout: post
 title: "Las Flores Duermen?"
 date: 2026-03-29
 --- 
+
 Hola blog :) 
 es la segunda vez que escribo algo aquí y últimamente e estado pensando en las flores que cierran sus petalos en el atardecer,durante mucho tiempo pensé que era una coincidencia, pero la realidad es mucho más fascinante. esto es gracias a un fenomeno llamado **nictinastia**
 
