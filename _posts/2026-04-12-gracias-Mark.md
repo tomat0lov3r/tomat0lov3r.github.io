@@ -7,7 +7,7 @@ date: 2026 - 04 - 12
 # Lo que Mark Lee me enseñó sobre empezar de cero
 Si tuviera que elegir a alguien que represente lo que verdaderamente representa  la disciplina y la pasión genuina por el arte, Mark sería el primer nombre en mi lista. Más allá de los escenarios y la industria coreana, hay algo en su ética de trabajo y en su forma de conectar con los fans que se siente increíblemente real
 
- En este post, me alejo de las luces y camaras,hablar de la esencia de Mark: el artista, el líder y la persona que sigue redefiniendo lo que significa ser un kpop idol en el 2026. (ah sin olvidarnos que es mi one and only)
+ En este post, me alejo de lo superficial,quiero hablar de la esencia de Mark: el artista, el líder y la persona que sigue redefiniendo lo que significa ser un kpop idol en el 2026. (ah sin olvidarnos que es mi one and only)
 
 desde que  Mark tomo la decision de salir nct pienso en como debera sentirse al salir del unico grupo en el que a estado (ignorando las subunidades) Aunque ya tenía experiencia, cada debut va significar empezar de cero: caras nuevas, dinámicas distintas y esa presión constante de tener que volver a demostrar quién es. Y, de alguna forma, eso se parece mucho a lo que estoy sintiendo ahora que se acerca la universidad.
 
