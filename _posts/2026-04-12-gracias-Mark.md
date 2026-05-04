@@ -1,6 +1,5 @@
 ---
 layout: post
- En este post, me alejo de lo superficial,quiero hablar de la esencia de Mark: el artista, el líder y la persona que sigue redefiniendo lo que significa ser un kpop idol en el 2026. (ah sin olvidarnos que es mi one and only)
 title: "La disciplina de Mark Lee y empezar de cero"
 date: 2026-05-04
 ---
